@@ -20,5 +20,3 @@ namespace Demo
         }
     }
 }
-
-Dev2 function.....
